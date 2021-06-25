@@ -29,7 +29,7 @@ module.exports = function (defaults) {
             },
           },
           require('tailwindcss')('./app/tailwind/config.js'),
-          ...(isProduction ? [purgeCSS] : []),
+          //...(isProduction ? [purgeCSS] : []),
         ],
       },
     },
