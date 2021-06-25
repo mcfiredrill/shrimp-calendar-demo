@@ -1,7 +1,8 @@
 # shrimp-calendar-demo
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+Demo for shrimp-calendar addon.
+
+Check out the demo [HERE](https://festive-mayer-9f9c8b.netlify.app/).
 
 ## Prerequisites
 
