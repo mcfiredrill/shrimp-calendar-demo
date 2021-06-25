@@ -1,6 +1,6 @@
 # shrimp-calendar-demo
 
-Demo for shrimp-calendar addon.
+Demo for [shrimp-calendar](https://github.com/mcfiredrill/shrimp-calendar) addon.
 
 Check out the demo [HERE](https://festive-mayer-9f9c8b.netlify.app/).
 
