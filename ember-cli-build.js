@@ -11,6 +11,7 @@ const purgeCSS = {
       './app/index.html',
       './app/templates/**/*.hbs',
       './app/components/**/*.hbs',
+      './node_modules/shrimp-calendar/**/*.hbs',
     ],
     defaultExtractor: (content) => content.match(/[A-Za-z0-9-_:/]+/g) || [],
   },
